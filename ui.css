@@ -68,6 +68,11 @@ img {
     border-radius: 50%;
 }
 
+.h1{
+    display: relative;
+    text-align: center;
+}
+
 .container {
     background: #e50000;
     padding-right: 15px;
